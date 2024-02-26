@@ -1,0 +1,14 @@
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\bin\Debug\net6.0\HomeWork_26.02.2024.exe
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\bin\Debug\net6.0\HomeWork_26.02.2024.deps.json
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\bin\Debug\net6.0\HomeWork_26.02.2024.runtimeconfig.json
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\bin\Debug\net6.0\HomeWork_26.02.2024.dll
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\bin\Debug\net6.0\HomeWork_26.02.2024.pdb
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.AssemblyInfoInputs.cache
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.AssemblyInfo.cs
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.dll
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\refint\HomeWork_26.02.2024.dll
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.pdb
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\HomeWork_26.02.2024.genruntimeconfig.cache
+D:\VS\HomeWork_26.02.2024\HomeWork_26.02.2024\obj\Debug\net6.0\ref\HomeWork_26.02.2024.dll
